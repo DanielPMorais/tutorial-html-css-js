@@ -1,0 +1,30 @@
+#page{
+    width: 1000px;
+    margin: 0 auto;
+}
+#header{
+    width: 1000px;
+    height: 100px;
+    background-color: #cf683f;
+}
+#main{
+    display: flex;
+}
+#sidebar{
+    width: 200px;
+    height: 800px;
+    background-color: #2e36aa;
+}
+#container{
+    display: block;
+}
+#content{
+    width: 800px;
+    height: 700px;
+    background-color: #3583c4;
+}
+#footer{
+    width: 800px;
+    height: 100px;
+    background-color: #bb3a81;
+}
